@@ -3,3 +3,4 @@ dash-mantine-components
 pandas
 pathlib
 plotly
+pyarrow
