@@ -10,7 +10,7 @@ import plotly.io as pio
 # )
 
 # root_path = path_manager.paths["final_results"]
-root_path = Path(__file__).parent / "data"
+root_path = Path(__file__).resolve().parent.parent.parent / "data"
 
 var_name_chosen = "V241170"
 
