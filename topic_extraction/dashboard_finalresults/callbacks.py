@@ -5,9 +5,9 @@ from pathlib import Path
 import pickle
 import plotly.io as pio
 
-from topic_extraction.setUp.setUp_objs import (
-    path_manager
-)
+# from topic_extraction.setUp.setUp_objs import (
+#     path_manager
+# )
 
 # root_path = path_manager.paths["final_results"]
 root_path = Path(__file__).parent / "data"
