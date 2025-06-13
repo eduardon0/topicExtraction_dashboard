@@ -2,5 +2,4 @@ dash
 dash-mantine-components
 pandas
 pathlib
-pickle
 plotly
